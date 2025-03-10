@@ -4,8 +4,6 @@ import React from "react";
 
 export default function Home() {
     // URL del informe de Power BI
-    const powerBIUrl = "https://app.powerbi.com/view?r=eyJrIjoiOTA2NTEwYmMtMmI2MS00NGJhLTg0ZTEtYWFlNzhmODk0NTIxIiwidCI6IjMyYTQ3ZjJkLTZlYjItNDIyNC04YjExLTI1MTk3NTQ1ODFjNSIsImMiOjR9";
-
     return (
         <div className="w-screen h-screen flex flex-col">
             <h1 className="text-xl font-bold p-4 bg-black-100">
